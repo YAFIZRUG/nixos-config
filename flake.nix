@@ -3,7 +3,7 @@
 #  - nixos-rebuild switch --flake /etc/nixos/#nixos  - для системы
 #  - home-manager switch --flake /etc/nixos/#sass@nixos  - для пользователя
 {
-  description = "NixOS & Home Manager - All-in-One"; # TODO: Изменить описание
+  description = "NixOS & Home Manager - All-in-One";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
