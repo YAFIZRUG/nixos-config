@@ -1,0 +1,18 @@
+# Nix builds
+result
+result-*
+
+# Hardware
+hardware-configuration.nix
+
+# Secrets
+*.secret
+*.pem
+*.key
+
+# Garbage & environments
+.direnv/
+.nix-node/
+*~
+*.swp
+.DS_Store
