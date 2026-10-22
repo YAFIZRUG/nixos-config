@@ -121,7 +121,7 @@
         };
       }
     ];
-  }; #  syntax error. expecting ')'
+  };
 
     # === Home Manager (standalone) ===
     # home-manager rebuild switch --flake /etc/nixos
