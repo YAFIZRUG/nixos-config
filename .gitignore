@@ -1,6 +1,9 @@
-# Nix builds
+# Ignore build outputs from performing a nix-build or `nix build` command
 result
 result-*
+
+# Ignore NixOS interactive test driver history
+**/.nixos-test-history
 
 # Hardware
 hardware-configuration.nix
