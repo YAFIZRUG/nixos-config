@@ -1,6 +1,6 @@
 {
   config,
-  inputs, # TODO: Узнать что с этим можно сделать
+  inputs,
   pkgs,
   unpkgs,
   ...
